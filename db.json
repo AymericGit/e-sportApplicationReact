@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "rougetmaxime0@gmail.com",
+      "password": "$2a$10$00kcbXCrzdunHlrg5UtEk.UZy6nKnbs.QBKfrIvLm66BPe.QVR.Cy",
+      "id": 4,
+      "credit": 83,
+      "favoris": [
+        4246
+      ],
+      "bet": [
+        {
+          "id_match": 593075,
+          "winner_id": "128995",
+          "mise": "2"
+        },
+        {
+          "id_match": 593074,
+          "winner_id": "128769",
+          "mise": "15"
+        }
+      ]
+    }
+  ]
+}
